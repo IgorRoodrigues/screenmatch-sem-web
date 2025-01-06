@@ -1,2 +1,2 @@
 # screenmatch-sem-web
-teste
+Projeto desenvolvido para adquirir conhecimento ampliado em Spring.
